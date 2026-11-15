@@ -4,7 +4,7 @@ A fast arcade roguelite where everything is a paddle: cute pet companions, paddl
 
 Play it here:
 
-https://ruannnebornman.github.io/paddle-pets
+https://bornmanr.github.io/paddle-pets
 
 Current build: `v0.26.0`
 
@@ -17,7 +17,7 @@ The goal is quick arcade momentum with a cute toy-fantasy identity: short levels
 The repo was renamed from `brick-breaker` to `paddle-pets`; the local remote now points at:
 
 ```text
-git@github.com:ruannnebornman/paddle-pets.git
+git@github.com:bornmanr/paddle-pets.git
 ```
 
 ## Current Style Direction
